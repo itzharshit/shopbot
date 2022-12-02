@@ -31,7 +31,7 @@ engine = "sqlite:///database.sqlite"
 # Telegram bot parameters
 [Telegram]
 # Your bot token goes here. Get one from https://t.me/BotFather!
-token = "5112274535:AAEi39QhTrrmVF9PcNGNO0g3SMM3WE8uXJw"
+token = "5930071300:AAES4SA_dLxv19Ul-myHvQi90ETVsuytB0I"
 # Time in seconds before a conversation (thread) with no new messages expires
 # A lower value reduces memory usage, but can be inconvenient for the users
 conversation_timeout = 7200
